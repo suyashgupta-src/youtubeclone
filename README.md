@@ -1,68 +1,67 @@
-# YouTube Clone
+# My YouTube App
 
-A YouTube-inspired web application built using **React**, **Redux Toolkit**, **Tailwind CSS**, and the **YouTube Data API**. This project was created to strengthen my understanding of modern frontend development by building a real-world application with reusable components, state management, routing, and API integration.
+A modern YouTube-inspired web application built with **React**, **Vite**, **Redux Toolkit**, and **Tailwind CSS**. The project recreates the core YouTube interface, allowing users to browse videos, search content, watch videos, and experience a responsive UI.
+
+---
 
 ## Features
 
-- Browse trending videos
-- Search for videos
-- Watch videos with an embedded player
-- Responsive user interface
-- Sidebar navigation
-- Fast and optimized performance
-- State management using Redux Toolkit
-- Clean and modular code structure
+- 🏠 Home page with video feed
+- 🔍 Search functionality
+- ▶️ Watch video page
+- 📂 Responsive sidebar navigation
+- 💬 Live chat component
+- 💭 Nested comments section
+- ⚡ Fast development with Vite
+- 📱 Responsive design
+
+---
 
 ## Tech Stack
 
-- **React**
-- **Vite**
-- **Redux Toolkit**
-- **React Router**
-- **Tailwind CSS**
-- **YouTube Data API v3**
-- **Firebase Hosting**
+- React 19
+- Vite
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- JavaScript (ES6+)
 
-## 📂 Project Structure
+---
 
+## Project Structure
+
+```
 src/
 ├── components/
-├── pages/
-├── utils/
-├── store/
+├── assets/
 ├── App.jsx
-└── main.jsx
-
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/youtube-clone.git
+├── main.jsx
+└── ...
 ```
 
-### 2. Move into the project directory
+---
+
+## Getting Started
+
+### Clone the repository
 
 ```bash
-cd youtube-clone
+git clone https://github.com/<your-github-username>/myyoutubeapp.git
 ```
 
-### 3. Install dependencies
+### Navigate to the project
+
+```bash
+cd myyoutubeapp
+```
+
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Create a `.env` file
-
-```env
-VITE_GOOGLE_API_KEY=YOUR_API_KEY
-```
-
-Generate your API key from the **Google Cloud Console** after enabling the **YouTube Data API v3**.
-
-### 5. Start the development server
+### Start the development server
 
 ```bash
 npm run dev
@@ -76,9 +75,7 @@ http://localhost:5173
 
 ---
 
-## Build
-
-Create a production build:
+## Build for Production
 
 ```bash
 npm run build
@@ -92,48 +89,33 @@ npm run preview
 
 ---
 
-## What I Learned
-
-While building this project, I gained hands-on experience with:
-
-- Building reusable React components
-- Managing global state with Redux Toolkit
-- Working with REST APIs
-- Client-side routing
-- Creating responsive layouts using Tailwind CSS
-- Organizing a scalable React project structure
-- Deploying applications using Firebase Hosting
-
----
-
 ## Screenshots
 
-Add screenshots of your application here.
-
-| Home | Watch Page | Search Results |
-|------|------------|----------------|
-| *(Add Image)* | *(Add Image)* | *(Add Image)* |
+> Add screenshots of your application here after deployment.
 
 ---
 
 ## Future Improvements
 
 - User authentication
-- Comments section
-- Infinite scrolling
-- Video recommendations
+- YouTube Data API integration
+- Video upload functionality
 - Dark mode
-- Watch history
-- Channel pages
+- Infinite scrolling
+- Like & Subscribe features
 
 ---
 
 ## Contributing
 
-Suggestions and improvements are always welcome. Feel free to fork the repository, open an issue, or submit a pull request.
+Contributions, issues, and feature requests are welcome.
 
 ---
 
 ## License
 
-This project is created for learning purposes and is not affiliated with or endorsed by YouTube or Google.
+This project is created for learning and educational purposes.
+
+---
+
+ If you found this project helpful, consider giving it a star!
