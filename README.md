@@ -90,6 +90,17 @@ npm run preview
 ---
 
 ## Screenshots
+### Home Page
+
+![Home Page](./screenshots/homepage.png)
+
+### Search Bar
+
+![Watch Page](./screenshots/searchbar.png)
+
+### Side Bar
+
+![Live Chat](./screenshots/sidebar.png)
 
 > Add screenshots of your application here after deployment.
 
