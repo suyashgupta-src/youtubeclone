@@ -96,13 +96,13 @@ npm run preview
 
 ### Search Bar
 
-![Watch Page](./screenshots/searchbar.png)
+![Search Bar](./screenshots/searchbar.png)
 
 ### Side Bar
 
-![Live Chat](./screenshots/sidebar.png)
+![Side Bar](./screenshots/sidebar.png)
 
-> Add screenshots of your application here after deployment.
+
 
 ---
 
