@@ -92,15 +92,15 @@ npm run preview
 ## Screenshots
 ### Home Page
 
-![Home Page](./screenshots/homepage.png)
+![Home Page](homepage.png)
 
 ### Search Bar
 
-![Search Bar](./screenshots/searchbar.png)
+![Search Bar](searchbar.png)
 
 ### Side Bar
 
-![Side Bar](./screenshots/sidebar.png)
+![Side Bar](sidebar.png)
 
 
 
