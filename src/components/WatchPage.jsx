@@ -6,7 +6,7 @@ import { useSearchParams } from 'react-router';
 import CommentContainer from './CommentContainer';
 import LiveChat from './LiveChat';
 import { GOOGLE_API_KEY } from '../utils/constant';
-import ChannelDetail from './ChannelDetail';
+import ChannelDetail from './channelDetail';
 
 const WatchPage = () => {
   const dispatch = useDispatch();
